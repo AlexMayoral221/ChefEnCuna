@@ -35,9 +35,9 @@ Herramientas de Desarrollo: Un editor de código (ej. VS Code, Sublime Text) par
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](screenshots/1.png)
-![Captura de Pantalla 1](screenshots/2.png)
-![Captura de Pantalla 1](screenshots/3.png)
+![Captura de Pantalla 1](Screenshots/1.png)
+![Captura de Pantalla 1](Screenshots/2.png)
+![Captura de Pantalla 1](Screenshots/3.png)
 
 ## Créditos
 Este proyecto fue desarrollado utilizando PHP, MySQL y el framework Tailwind CSS.
